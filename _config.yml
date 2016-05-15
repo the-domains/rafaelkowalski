@@ -1,0 +1,28 @@
+name: rafaelkowalski
+favicon: null
+layout_spectrum: 0.2877281396649778
+typography_spectrum: 0.6672029979526997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5248101314064115
+  lightness: 0.24699949123896658
+  saturation: 0.4465448195114732
+  rhythmicContrast: 0.06160565069876611
+purpose: []
