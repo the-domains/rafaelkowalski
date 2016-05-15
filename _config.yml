@@ -1,7 +1,7 @@
 name: rafaelkowalski
 favicon: null
-layout_spectrum: 0.2877281396649778
-typography_spectrum: 0.6672029979526997
+layout_spectrum: 0.25406
+typography_spectrum: 0.23011
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5248101314064115
-  lightness: 0.24699949123896658
-  saturation: 0.4465448195114732
-  rhythmicContrast: 0.06160565069876611
+  brandStrength: 0
+  lightness: 0.0625
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
